@@ -55,24 +55,25 @@ In addition to mastering HTML and CSS, he/she also knows how to:
 - Parse.com
 - PaaS (Azure and Heroku)
 
-Popular Stacks
-LAMP stack: JavaScript - Linux - Apache - MySQL - PHP
-LEMP stack: JavaScript - Linux - Nginx - MySQL - PHP
-MEAN stack: JavaScript - MongoDB - Express - AngularJS - Node.js
-Django stack: JavaScript - Python - Django - MySQL
-Ruby on Rails: JavaScript - Ruby - SQLite - Rails
-Advantages
-The advantage of being a full stack web developer is:
+### Popular Stacks
+- LAMP stack: JavaScript - Linux - Apache - MySQL - PHP
+- LEMP stack: JavaScript - Linux - Nginx - MySQL - PHP
+- MEAN stack: JavaScript - MongoDB - Express - AngularJS - Node.js
+- Django stack: JavaScript - Python - Django - MySQL
+- Ruby on Rails: JavaScript - Ruby - SQLite - Rails
 
-You can master all the techniques involved in a development project
-You can make a prototype very rapidly
-You can provide help to all the team members
-You can reduce the cost of the project
-You can reduce the time used for team communication
-You can switch between front and back end development based on requirements
-You can better understand all aspects of new and upcoming technologies
-Disadvantages
-The solution chosen can be wrong for the project
-The solution chosen can be dependent on developer skills
-The solution can generate a key person risk
-Being a full stack developer is increasingly complex
+### Advantages
+**The advantage of being a full stack web developer is:**
+- You can master all the techniques involved in a development project
+- You can make a prototype very rapidly
+- You can provide help to all the team members
+- You can reduce the cost of the project
+- You can reduce the time used for team communication
+- You can switch between front and back end development based on requirements
+- You can better understand all aspects of new and upcoming technologies
+
+### Disadvantages
+- The solution chosen can be wrong for the project
+- The solution chosen can be dependent on developer skills
+- The solution can generate a key person risk
+- Being a full stack developer is increasingly complex
